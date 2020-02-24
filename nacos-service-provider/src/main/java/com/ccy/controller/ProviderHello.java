@@ -19,6 +19,6 @@ public class ProviderHello {
 
     @RequestMapping("hello")
     public String hello(){
-        return "helloxxxxeee:"+appName;
+        return "helloxxxxeee6666:"+appName;
     }
 }
